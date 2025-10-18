@@ -59,6 +59,7 @@ A Python-based desktop tool to automatically **fetch and download cause list PDF
 ### 1️⃣ Install dependencies
 ```bash
 pip install requests beautifulsoup4
+```
 2️⃣ Run the application
 bash
 Copy code
