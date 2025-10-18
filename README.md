@@ -115,27 +115,44 @@ Or retry during court hours (after 10 AM).
 
 The script does not bypass captcha — it only uses publicly available data.
 
-📜 Folder Structure
-bash
-Copy code
+## 📁 Output Example
+
+All downloaded cause lists are saved to:
+
+output/
+├── 2025101068.pdf
+├── 2025101040.pdf
+└── 2025100886.pdf
+
+---
+
+## 📜 Folder Structure
+
 ecourts-cause-list-scraper/
 │
-├── ecourts_autoretry_final.py       # Main application script
-├── output/                          # Folder for downloaded PDFs
-│   ├── 2025101068.pdf
-│   ├── 2025101040.pdf
-│   └── ...
-├── screenshots/                     # Screenshots for proof
-│   ├── log_proof.png
-│   ├── ui_app.png
-│   └── output_folder.png
-└── README.md                        # This file
-🧑‍💻 Author
-Name: PRIYANSHU SINGH
-Internship: Think Act Rise
-Date: October 2025
-Email: priyanshu.asn2003@gmail.com
-GitHub Repository: https://github.com/yourusername/ecourts-cause-list-scraper
+├── ecourts_autoretry_final.py # Main application script
+├── output/ # Folder for downloaded PDFs
+│ ├── 2025101068.pdf
+│ ├── 2025101040.pdf
+│ └── ...
+├── screenshots/ # Screenshots for proof
+│ ├── log_proof.png
+│ ├── ui_app.png
+│ └── output_folder.png
+└── README.md # This file
+
+yaml
+Copy code
+
+---
+
+## 🧑‍💻 Author
+
+**Name:** PRIYANSHU SINGH  
+**Internship:** Think Act Rise  
+**Date:** October 2025  
+**Email:** priyanshu.asn2003@gmail.com  
+**GitHub Repository:** [https://github.com/yourusername/ecourts-cause-list-scraper](https://github.c
 
 ✅ Summary
 This project fulfills all internship requirements:
