@@ -148,7 +148,7 @@ ecourts-cause-list-scraper/
 **Internship:** Think Act Rise  
 **Date:** October 2025  
 **Email:** priyanshu.asn2003@gmail.com  
-**GitHub Repository:** [https://github.com/yourusername/ecourts-cause-list-scraper](https://github.c
+**GitHub Repository:** [https://github.com/priyanshu596/cause_list_scraper]
 
 ✅ Summary
 This project fulfills all internship requirements:
