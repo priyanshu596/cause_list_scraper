@@ -137,12 +137,8 @@ ecourts-cause-list-scraper/
 │ └── ...
 ├── screenshots/ # Screenshots for proof
 │ ├── log_proof.png
-│ ├── ui_app.png
-│ └── output_folder.png
-└── README.md # This file
-
-yaml
-Copy code
+│ 
+└── README.md 
 
 ---
 
